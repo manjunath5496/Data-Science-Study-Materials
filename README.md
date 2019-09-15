@@ -985,13 +985,13 @@ regression, p values, confidence intervals, etc</a></b></li>
 <h2> Assignments: </h2>
 
 <ul>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/pg(8).pdf" style="text-decoration:none;">Problem set 1 with solutions/a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/pg(8).pdf" style="text-decoration:none;">Problem set 1 with solutions</a></b></li>
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/pg(31).pdf" style="text-decoration:none;">Problem set 2 with solution</a></b></li>     
      
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/pg(32).pdf" style="text-decoration:none;">Problem set 3 with solution</a></b></li>
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/pg(8).pdf" style="text-decoration:none;">Problem set 4 with solutions/a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/pg(8).pdf" style="text-decoration:none;">Problem set 4 with solutions</a></b></li>
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/pg(31).pdf" style="text-decoration:none;">Problem set 5 with solution</a></b></li>     
     
