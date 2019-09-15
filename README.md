@@ -985,11 +985,16 @@ regression, p values, confidence intervals, etc</a></b></li>
 <h2> Assignments: </h2>
 
 <ul>
-<li>Problem set&nbsp; #1 (<a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/hw1.pdf">PDF</a>)&nbsp;<strong>&nbsp;</strong>|<strong>&nbsp;&nbsp;</strong>Solution Set #1<strong>&nbsp;&nbsp;</strong>Section A (<a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/hw1a_soln.pdf">PDF</a>) Section B (<a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/hw1b_soln.pdf">PDF</a>)</li>
-<li>Problem set&nbsp; #2&nbsp;(<a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/hw2.pdf">PDF</a>)&nbsp; |&nbsp; Solution Set #2 (<a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/hw2_soln.pdf">PDF</a>)</li>
-<li>Problem set&nbsp; #3&nbsp;(<a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/hw3.pdf">PDF</a>)&nbsp; |&nbsp; Solution Set #3<strong>&nbsp;</strong>(<a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/hw3_soln.pdf">PDF</a>)</li>
-<li>Problem set&nbsp; #4&nbsp;(<a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/hw4.pdf">PDF</a>)&nbsp; |&nbsp;&nbsp;Solution Set #4<strong>&nbsp;</strong>(<a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/hw4_soln.pdf">PDF</a>)</li>
-<li>Problem set #5 (<a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/hw5.pdf">PDF</a>)&nbsp; &nbsp;|&nbsp;&nbsp;Solution Set #5<strong>&nbsp;</strong>(<a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/hw5_soln.pdf">PDF</a>)</li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/pg(8).pdf" style="text-decoration:none;">Problem set 1 with solutions/a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/pg(31).pdf" style="text-decoration:none;">Problem set 2 with solution</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/pg(32).pdf" style="text-decoration:none;">Problem set 3 with solution</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/pg(8).pdf" style="text-decoration:none;">Problem set 4 with solutions/a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/pg(31).pdf" style="text-decoration:none;">Problem set 5 with solution</a></b></li>     
+    
 </ul>
 
 </br>
