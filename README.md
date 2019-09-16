@@ -1099,3 +1099,16 @@ Study</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/pg(72).pdf" style="text-decoration:none;">R and Data Mining: Examples and Case Studies</a></b></li> 
   
 </ul>
+
+</br>
+
+<h2> Data Science Tutorials for Beginners: </h2>
+
+  <ul>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/pg(71).pdf" style="text-decoration:none;">Data Mining Case Studies</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/pg(72).pdf" style="text-decoration:none;">R and Data Mining: Examples and Case Studies</a></b></li> 
+  
+</ul>
+
+
