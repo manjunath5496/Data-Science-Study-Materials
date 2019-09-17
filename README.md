@@ -1123,7 +1123,14 @@ Study</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(9).pdf" style="text-decoration:none;">Beginner's Guide to Data Science</a></b></li> 
 
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(10).pdf" style="text-decoration:none;">Tutorial on Natural Language Processing</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(11).pdf" style="text-decoration:none;">Natural Language Processing: A Tutorial</a></b></li> 
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(8).pdf" style="text-decoration:none;">Agile Data Science Tutorial </a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(9).pdf" style="text-decoration:none;">Beginner's Guide to Data Science</a></b></li>
 
 
 </ul>
