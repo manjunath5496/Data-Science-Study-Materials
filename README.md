@@ -1130,8 +1130,9 @@ Study</a></b></li>
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(12).pdf" style="text-decoration:none;">Artificial Neural Networks Tutorial </a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(13).pdf" style="text-decoration:none;">Beginner's Guide to Data Science</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(13).pdf" style="text-decoration:none;">Machine Learning in Computer Vision</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(14).pdf" style="text-decoration:none;">The Fundamentals of Machine Vision</a></b></li>
 
 </ul>
 
