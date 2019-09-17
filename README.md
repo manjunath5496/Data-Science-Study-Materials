@@ -1107,7 +1107,12 @@ Study</a></b></li>
   <ul>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(1).pdf" style="text-decoration:none;">A Tutorial on Machine Learning and Data Science Tools with Python</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(2)pdf" style="text-decoration:none;">R and Data Mining: Examples and Case Studies</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(2).pdf" style="text-decoration:none;">Data Science Tutorial</a></b></li> 
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(3).pdf" style="text-decoration:none;">Big Data Analytics Tutorial </a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(4).pdf" style="text-decoration:none;">Machine Learning Tutorial</a></b></li> 
+
   
 </ul>
 
