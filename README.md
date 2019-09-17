@@ -1117,6 +1117,15 @@ Study</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(6).pdf" style="text-decoration:none;">Data Mining Tutorial</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(7).pdf" style="text-decoration:none;">Machine Learning Tutorial</a></b></li> 
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(8).pdf" style="text-decoration:none;">Deep Learning Tutorial </a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(9).pdf" style="text-decoration:none;">Data Mining Tutorial</a></b></li> 
+
+
+
+
 </ul>
 
 
