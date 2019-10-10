@@ -1137,3 +1137,50 @@ Study</a></b></li>
 </ul>
 
 
+</br>
+
+<h2> Lecture Notes by <a title=" Chinese-American computer scientist " href="https://en.wikipedia.org/wiki/Andrew_Ng" target="_blank">Andrew Ng</a>: </h2>
+
+  <ul>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(1).pdf" style="text-decoration:none;">01 and 02: Introduction, Regression Analysis and Gradient Descent</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(2).pdf" style="text-decoration:none;">03: Linear Algebra - review</a></b></li> 
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(3).pdf" style="text-decoration:none;">04: Linear Regression with Multiple Variables </a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(4).pdf" style="text-decoration:none;">05: Logistic Regression</a></b></li> 
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(5).pdf" style="text-decoration:none;">06: Regularization </a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(6).pdf" style="text-decoration:none;">Data Mining Tutorial</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(7).pdf" style="text-decoration:none;">The Field Guide to Data Science</a></b></li> 
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(8).pdf" style="text-decoration:none;">Agile Data Science Tutorial </a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(9).pdf" style="text-decoration:none;">Beginner's Guide to Data Science</a></b></li> 
+
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(10).pdf" style="text-decoration:none;">Tutorial on Natural Language Processing</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(11).pdf" style="text-decoration:none;">Natural Language Processing: A Tutorial</a></b></li> 
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(12).pdf" style="text-decoration:none;">Artificial Neural Networks Tutorial </a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(13).pdf" style="text-decoration:none;">Machine Learning in Computer Vision</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/tul(14).pdf" style="text-decoration:none;">The Fundamentals of Machine Vision</a></b></li>
+
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
