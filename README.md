@@ -1146,7 +1146,9 @@ Study</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(2).pdf" style="text-decoration:none;">03: Linear Algebra - review</a></b></li> 
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(3).pdf" style="text-decoration:none;">04: Linear Regression with Multiple Variables </a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(3).pdf" style="text-decoration:none;">04: Linear Regression with Multiple Variables </a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(3a).pdf" style="text-decoration:none;">05: Octave </a></b></li>   
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(4).pdf" style="text-decoration:none;">06: Logistic Regression</a></b></li> 
 
