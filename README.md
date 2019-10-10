@@ -1178,6 +1178,8 @@ Study</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(16).pdf" style="text-decoration:none;">18: Application Example - Photo OCR</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(17).pdf" style="text-decoration:none;">Understanding Andrew Ng's Machine Learning Course – Notes and codes</a></b></li>
+
 </ul>
 
 
