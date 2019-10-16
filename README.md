@@ -1183,7 +1183,7 @@ Study</a></b></li>
 </ul>
 
 </br>
-
+<h2> 50 selected papers in Data Mining and Machine Learning: </h2>
 <h1><strong>General </strong></h1>
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/data-mining-and-statistics-friedman.pdf">Data Mining and Statistics: What&rsquo;s the Connection?</a></p>
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/data-mining-and-statistics-hand.pdf">Data Mining: Statistics and More?</a>, D. Hand, American Statistician, 52(2):112-118.</p>
