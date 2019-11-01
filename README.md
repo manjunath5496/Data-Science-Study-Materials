@@ -1288,7 +1288,7 @@ Study</a></b></li>
 </ul>
 </br>
 
-
+<h2> 21 hottest research papers on Computer Vision and Machine Learning: </h2>
   
 <ul>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/21-hottest-research-papers-on-Computer-Vision-and-Machine-Learning/blob/master/hmp(1).pdf" style="text-decoration:none;">HD-CNN: Hierarchical Deep Convolutional Neural Network for Large Scale
