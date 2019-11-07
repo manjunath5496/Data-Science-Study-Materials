@@ -1,4 +1,4 @@
-<img src="awesome-machine-learning-artwork.png" alt="Awesome Machine Learning On Source Code" style="max-width:100%;">
+<img src="awesome-machine-learning-artwork.jpg" alt="Awesome Machine Learning On Source Code" style="max-width:100%;">
 
 
 
