@@ -1537,9 +1537,24 @@ Overfitting</a></b></li>
 
 </ul>
 
+</br>
+<h2> 5 Latest Research Papers On ML You Must Read: </h2>
 
+<ul>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mld(1).pdf" style="text-decoration:none;">Cricket Analytics and Predictor</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mld(2).pdf" style="text-decoration:none;">Real Time Sleep / Drowsiness Detection</a></b></li>
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mld(3).pdf" style="text-decoration:none;">A Study of Various Text Augmentation Techniques for Relation Classification in Free Text</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mld(4).pdf" style="text-decoration:none;">Smart Health Monitoring and Management Using Internet of Things, Artificial Intelligence with Cloud Based Processing</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mld(5).pdf" style="text-decoration:none;">Internet of Things with BIG DATA Analytics &minus; A Survey</a></b></li>     
+     
+ 
+  
+</ul>
 
 
 
