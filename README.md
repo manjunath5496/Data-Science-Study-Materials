@@ -1557,6 +1557,32 @@ Overfitting</a></b></li>
 </ul>
 
 
+</br>
+<h2>Readings in Databases: </h2>
+   
+<ul>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(1).pdf" style="text-decoration:none;">The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(2).pdf" style="text-decoration:none;">AlphaSort: A Cache-Sensitive Parallel External Sort</a></b></li>
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(3).pdf" style="text-decoration:none;">ARIES: A Transaction Recovery Method Supporting Fine-Granularity Locking and Partial Rollbacks Using Write-Ahead Logging </a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(4).pdf" style="text-decoration:none;">Bigtable: A Distributed Storage System for Structured Data</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(5).pdf" style="text-decoration:none;">Efficient Locking for Concurrent Operations on B-Trees</a></b></li>     
+     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(6).pdf" style="text-decoration:none;">CAP Twelve Years Later: How the "Rules" Have Changed</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(7).pdf" style="text-decoration:none;">Chord: A Scalable Peertopeer Lookup Service for Internet Applications</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(8).pdf" style="text-decoration:none;">A View of Cloud Computing</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(9).pdf" style="text-decoration:none;">Relational Model of Data for Large Shared Data Banks</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(10).pdf" style="text-decoration:none;">Column-Stores vs. RowStores: How Different Are They Really?</a></b></li>     
+     
+ 
+  
+</ul>
 
