@@ -1582,7 +1582,53 @@ Overfitting</a></b></li>
    
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(10).pdf" style="text-decoration:none;">Column-Stores vs. RowStores: How Different Are They Really?</a></b></li>     
      
- 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(11).pdf" style="text-decoration:none;">C-Store: A Column-oriented DBMS</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(12).pdf" style="text-decoration:none;">The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(13).pdf" style="text-decoration:none;">Dremel: Interactive Analysis of WebScale Datasets </a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(14).pdf" style="text-decoration:none;">Dynamo: Amazon's Highly Available Key-value Store</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(15).pdf" style="text-decoration:none;">Eddies: Continuously Adaptive Query Processing</a></b></li>     
+     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(16).pdf" style="text-decoration:none;">Architecture of a Database System</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(17).pdf" style="text-decoration:none;">The Google File System</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(18).pdf" style="text-decoration:none;">What Goes Around Comes Around</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(19).pdf" style="text-decoration:none;">MapReduce: Simplified Data Processing on Large Clusters</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(20).pdf" style="text-decoration:none;">On Optimistic Methods for Concurrency Control</a></b></li>     
+     
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(21).pdf" style="text-decoration:none;">Patience is a Virtue: Revisiting Merge and Sort on Modern Processors</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(22).pdf" style="text-decoration:none;">Paxos Made Simple</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(23).pdf" style="text-decoration:none;">In Search of an Understandable Consensus Algorithm (Extended Version)</a></b></li>     
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(24).pdf" style="text-decoration:none;">The R*-tree: An Efficient and Robust Access Method for Points and Rectangles+</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(25).pdf" style="text-decoration:none;">Shark: SQL and Rich Analytics at Scale</a></b></li>     
+     
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(26).pdf" style="text-decoration:none;">Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(27).pdf" style="text-decoration:none;">A History and Evaluation of System R</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(28).pdf" style="text-decoration:none;">Access Path Selection in a Relational Database Management System</a></b></li> 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(29).pdf" style="text-decoration:none;">Reflections on Trusting Trust</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(30).pdf" style="text-decoration:none;">Improved Query Performance with Variant Indexes</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/mdl(31).pdf" style="text-decoration:none;">The Vertica Analytic Database: C-Store 7 Years Later</a></b></li>  
+  
+  
+  
+  
   
 </ul>
 
