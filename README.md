@@ -2093,7 +2093,7 @@ Segmentation and Re-Identification of Clothing Images</a></b></li>
 </br>
 <h2>Must-Read Papers on GANs: </h2>
 
-<p><strong><a href="https://en.wikipedia.org/wiki/Generative_adversarial_network" target="_blank">Generative Adversarial Network</a>s</strong> are one of the most interesting and popular applications of<strong> <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank">Deep Learning</a></strong>. This article will list 10 papers on <strong>GANs</strong> that will give you a great introduction to GAN as well as a foundation for understanding the state-of-the-art.&nbsp;</p>
+<p><strong><a href="https://en.wikipedia.org/wiki/Generative_adversarial_network" target="_blank">Generative Adversarial Network</a>s</strong> are one of the most interesting and popular applications of<strong> <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank">Deep Learning</a></strong>. Here are the list of 10 papers on <strong>GANs</strong> that will give you a great introduction to GAN as well as a foundation for understanding the state-of-the-art.&nbsp;</p>
 <hr>
 
 <ul>
