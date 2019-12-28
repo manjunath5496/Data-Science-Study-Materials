@@ -2580,15 +2580,13 @@ Segmentation and Re-Identification of Clothing Images</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Downloaded-Artificial-Intelligence-Articles/blob/master/mda(20).pdf" style="text-decoration:none;">Multiple instance classification: Review, taxonomy and comparative study </a></b></li>  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Downloaded-Artificial-Intelligence-Articles/blob/master/mda(21).pdf" style="text-decoration:none;">Watson: Beyond Jeopardy! </a></b></li>  
                                              
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Downloaded-Artificial-Intelligence-Articles/blob/master/mda(22).pdf" style="text-decoration:none;">Human-level artificial general intelligence and the possibility of a technological singularity A reaction to Ray Kurzweil's The Singularity Is Near, and McDermott’s critique of Kurzweil</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Downloaded-Artificial-Intelligence-Articles/blob/master/mda(22).pdf" style="text-decoration:none;">Human-level artificial general intelligence and the possibility of a technological singularity A reaction to Ray Kurzweil's The Singularity Is Near, and McDermott's critique of Kurzweil</a></b></li>  
                                              
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Downloaded-Artificial-Intelligence-Articles/blob/master/mda(23).pdf" style="text-decoration:none;">Distributional semantics of objects in visual scenes incomparison totext</a></b></li>
  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Downloaded-Artificial-Intelligence-Articles/blob/master/mda(24).pdf" style="text-decoration:none;">Stuart Russell and Peter Norvig, Artijcial Intelligence: A Modem Approach </a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Downloaded-Artificial-Intelligence-Articles/blob/master/mda(24).pdf" style="text-decoration:none;">Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach </a></b></li>  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Downloaded-Artificial-Intelligence-Articles/blob/master/mda(25).pdf" style="text-decoration:none;">Planning and acting in partially observable stochastic domains</a></b></li>  
 
  </ul>
- 
-
