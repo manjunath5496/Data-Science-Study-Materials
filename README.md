@@ -4072,7 +4072,7 @@ Based on Fraudulent Action Propagation</a></b></li>
 <h2>The 5 Algorithms for Efficient Deep Learning Inference on Small Devices: </h2>
 
 
-<p> <strong>Pruning Neural Networks: </strong> </p> </br>
+<p> <strong>Pruning Neural Networks: </strong> </p> <hr></br>
 
 <ul>
   
@@ -4086,7 +4086,7 @@ Based on Fraudulent Action Propagation</a></b></li>
   
   </ul>
   </br>
-  <p> <strong>Deep Compression: </strong> </p> </br>
+  <p> <strong>Deep Compression: </strong> </p>  <hr></br>
 
 <ul>
   
@@ -4094,7 +4094,7 @@ Based on Fraudulent Action Propagation</a></b></li>
   
   </ul>
  </br>
-  <p> <strong>Data Quantization: </strong> </p> </br>
+  <p> <strong>Data Quantization: </strong> </p>  <hr></br>
 
 <ul>
   
@@ -4103,7 +4103,7 @@ Based on Fraudulent Action Propagation</a></b></li>
   </ul>
   
   </br>
-  <p> <strong>Low-Rank Approximation: </strong> </p> </br>
+  <p> <strong>Low-Rank Approximation: </strong> </p>  <hr></br>
 
 <ul>
   
@@ -4114,7 +4114,7 @@ Based on Fraudulent Action Propagation</a></b></li>
   
 </br>
 
-<p> <strong>Trained Ternary Quantization: </strong> </p> </br>
+<p> <strong>Trained Ternary Quantization: </strong> </p>  <hr></br>
 
 <ul>
   
