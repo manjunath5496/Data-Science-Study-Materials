@@ -5243,12 +5243,6 @@ X-ray polarimeters</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Finance-ML-Papers/blob/master/fkl(13).pdf" style="text-decoration:none;">Empirical Asset Pricing via Machine Learning</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Finance-ML-Papers/blob/master/fkl(14).pdf" style="text-decoration:none;">Applying Deep Learning to Enhance Momentum Trading Strategies in Stocks</a></b></li>
    
-
- 
- 
- 
- 
- 
 </ul>
 
  
