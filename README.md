@@ -4853,7 +4853,7 @@ Networks</a></b></li>
  
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/aml(71).pdf" style="text-decoration:none;">Stellar Cluster Detection using GMM with Deep Variational Autoencoder</a></b></li>
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/aml(72).pdf" style="text-decoration:none;">Galaxy detection and identication using deep learning and data augmentation</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/aml(72).pdf" style="text-decoration:none;">Galaxy detection and identification using deep learning and data augmentation</a></b></li> 
  
  
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/aml(73).pdf" style="text-decoration:none;">Towards online triggering for the radio detection of air showers using deep neural networks</a></b></li>
@@ -5000,7 +5000,7 @@ Networks</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/aml(150).pdf" style="text-decoration:none;">Random Forest identification of the thin disk, thick disk and halo Gaia-DR2 white dwarf population</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/aml(151).pdf" style="text-decoration:none;">The Hubble Sequence at z∼0 in the IllustrisTNG simulation with deep learning </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/aml(151).pdf" style="text-decoration:none;">The Hubble Sequence at z&sim;0 in the IllustrisTNG simulation with deep learning </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/aml(152).pdf" style="text-decoration:none;">Galaxy classification: A machine learning analysis of GAMA catalogue data</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/aml(153).pdf" style="text-decoration:none;">Modeling with the Crowd: Optimizing the Human-Machine Partnership with Zooniverse</a></b></li> 
@@ -5045,7 +5045,7 @@ Networks and Cosmological Simulations</a></b></li>
    
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/aml(177).pdf" style="text-decoration:none;">Using Convolutional Neural Networks to identify Gravitational Lenses in Astronomical images</a></b></li> 
                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/aml(178).pdf" style="text-decoration:none;">Deep Neural Network Classier for Variable Stars with Novelty Detection Capability</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/aml(178).pdf" style="text-decoration:none;">Deep Neural Network Classifier for Variable Stars with Novelty Detection Capability</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/aml(179).pdf" style="text-decoration:none;">Fast Wiener filtering of CMB maps with Neural Networks</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Astronomy-ML-Papers/blob/master/aml(180).pdf" style="text-decoration:none;">A deep learning model to emulate simulations of cosmic reionization</a></b></li>
@@ -5135,6 +5135,7 @@ X-ray polarimeters</a></b></li>
  
  
  </ul>
+
 
  </br>
  
