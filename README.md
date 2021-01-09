@@ -1,4 +1,4 @@
-<img src="https://analyticsindiamag.com/wp-content/uploads/2019/05/FAQ.png.jpg" alt="Awesome Machine Learning On Source Code" style="max-width:100%;">
+<img src="da.png" alt="Awesome Machine Learning On Source Code" style="max-width:100%;">
 </br>
 
 <p><strong>Data science</strong>&nbsp;is an&nbsp;<a class="mw-redirect" title="Inter-disciplinary" href="https://en.wikipedia.org/wiki/Inter-disciplinary">inter-disciplinary</a>&nbsp;field that uses scientific methods, processes, algorithms and systems to extract&nbsp;<a title="Knowledge" href="https://en.wikipedia.org/wiki/Knowledge">knowledge</a>&nbsp;and insights from many structural and&nbsp;<a title="Unstructured data" href="https://en.wikipedia.org/wiki/Unstructured_data">unstructured data</a>.&nbsp;Data science is related to&nbsp;<a title="Data mining" href="https://en.wikipedia.org/wiki/Data_mining">data mining</a>,&nbsp;<a title="Deep learning" href="https://en.wikipedia.org/wiki/Deep_learning">deep learning</a>&nbsp;and&nbsp;<a title="Big data" href="https://en.wikipedia.org/wiki/Big_data">big data</a>.</p>
